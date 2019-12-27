@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -nostdlib -O   CMakeFiles/payload_sysreg.dir/src/sysreg.c.o  -o payload_sysreg 

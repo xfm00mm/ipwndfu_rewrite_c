@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/aes.c
+brfunc_aes.h
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/brfunc_aes.h
+brfunc_timing.h
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/brfunc_timing.h
+brfunc_sep.h
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/brfunc_sep.h
+util.h
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/util.h
+
+checkm8_payloads/include/brfunc_aes.h
+brfunc_common.h
+checkm8_payloads/include/brfunc_common.h
+
+checkm8_payloads/include/brfunc_common.h
+checkm8_config.h
+checkm8_payloads/include/checkm8_config.h
+
+checkm8_payloads/include/brfunc_sep.h
+brfunc_common.h
+checkm8_payloads/include/brfunc_common.h
+
+checkm8_payloads/include/brfunc_timing.h
+brfunc_common.h
+checkm8_payloads/include/brfunc_common.h
+
+checkm8_payloads/include/util.h
+
+include/checkm8_config.h
+

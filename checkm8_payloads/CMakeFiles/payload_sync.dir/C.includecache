@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/sync.c
+util.h
+/home/toor/ipwndfu_rewrite_c/checkm8_payloads/src/util.h
+
+checkm8_payloads/include/util.h
+

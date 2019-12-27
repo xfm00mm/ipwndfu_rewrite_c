@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/checkm8_remote.dir/main.c.o CMakeFiles/checkm8_remote.dir/src/libusb_helpers.c.o CMakeFiles/checkm8_remote.dir/src/exploit.c.o CMakeFiles/checkm8_remote.dir/src/payload.c.o CMakeFiles/checkm8_remote.dir/src/command.c.o  -o checkm8_remote ../libcheckm8_libusb.a -lpthread -ludev 
